@@ -2,7 +2,7 @@
 
 ### 术语
 
-* ACM: All-Cause Mortality / 全因死亡率
+* ACM: All-Cause Mortality / 全因死亡率 update
 
 ### 目标
 
